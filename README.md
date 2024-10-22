@@ -11,3 +11,8 @@ NHS’s stakeholders are divided on if capacity should be increased based on cur
 2. Is there evidences supporting belief that existing infrastructure and resources are sufficient for patients 
 
 ## Solution:
+1. Current capacity not adequate, since average was used as a metric representing maximum capacity.
+2. Infrastructure and resources are being overcome gradually and the rate of appointments is increasing consistently over average number of appointments.
+3. Allocation of budget should increase assuming current trajectory, this is excluding the population growth anticipated by NHS prior request of analysis of the data set.
+4. Limitation exist within the data sets, there is evidence to suggest a uniform standardization recording observation notably waiting period between reservation & appointment.
+5. For future inquires regarding budget allocation, the NHS should consider using a margin of error due to sensitive nature of the data sets. Data recorded based on patient and health treatment need to adhere to highest levels of security to maintain privacy of citizens. 
